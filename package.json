@@ -1,6 +1,6 @@
 {
   "name": "telegram-helper-client",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Performs various helper functions related to Telegram platform. For instance, resolving usernames into userids",
   "main": "index.js",
   "scripts": {
